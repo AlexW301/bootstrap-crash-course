@@ -115,7 +115,7 @@ export default function Home() {
 
         <Dropdown.Menu>
           <Dropdown.Item href="https://youtube.com/">YouTube</Dropdown.Item>
-          <Dropdown.Item href="#/action-2">Another action</Dropdown.Item>
+          <Dropdown.Item href="/about">About</Dropdown.Item>
           <Dropdown.Item href="#/action-3">Something else</Dropdown.Item>
         </Dropdown.Menu>
       </Dropdown>
